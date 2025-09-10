@@ -1,1 +1,1 @@
-# DSA-LAB1-SyedaFrozih
+# DSA-LAB1-SyedaFrozish
